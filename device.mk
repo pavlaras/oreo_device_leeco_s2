@@ -81,9 +81,9 @@ PRODUCT_PACKAGES += \
     libqcomvisualizer \
     libqcomvoiceprocessing \
     libqcomvoiceprocessingdescriptors \
-#   libtinyalsa \
-#   libtinycompress \
-#   libtinyxml \
+    libtinyalsa \
+    libtinycompress \
+    libtinyxml \
     tinymix
 
 PRODUCT_PACKAGES += \
